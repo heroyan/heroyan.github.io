@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "序言"
-subtitle: '卖蟑螂药的设计师'
+subtitle: '缘起'
 author: "yanghuahua"
 header-style: text
 tags:
-  - 蟑螂药
+  - 程序员
   - 设计师
 
 ---
 
-说来真是机缘巧合，非著名设计师（软件设计师的老公和空间设计师的老婆）干起了卖蟑螂药的生意
+非著名空间设计师 and 非著名程序员，开始了他们的移动互联网生活
 
 ---
