@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "生日快乐"
+title: "6周年快乐"
 subtitle: '致老婆'
 author: "yanghuahua"
 header-style: text
 tags:
-  - 程序员
-  - 设计师
-  - 生日
-  - 老婆
+  - 6周年
+  - 结婚
+  - 纪念
 
 ---
 
