@@ -1,18 +1,17 @@
 ---
 layout: post
-title: "6周年生日快乐"
-subtitle: '致6周年'
+title: "生日快乐"
+subtitle: '致老婆'
 author: "yanghuahua"
 header-style: text
 tags:
-  - 结婚
-  - 6
-  - 周年
+  - 程序员
+  - 设计师
+  - 生日
+  - 老婆
 
 ---
 
-6年前的今天，我们一起走过红毯，走进了婚姻的殿堂，你中有我，我中有你！  
-执子之手，与子偕老!  
-点击这里，有[小惊喜](http://119.28.51.116/wedding-anniversary/6years/index.html)
+非著名空间设计师 and 非著名程序员，他就是我，我就是他，开始了他们的移动互联网生活
 
 ---
